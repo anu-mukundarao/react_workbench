@@ -1,0 +1,33 @@
+.logoStyle{
+    margin-top: 25px;
+}
+
+.searchStyle{
+    height: '66px';
+}
+
+.tilePad {
+    padding-top: 50px ;
+}
+.leftNav{
+    border: 1px ridge grey; 
+}
+
+.leftText {
+    margin-left: 10px;
+    font-weight: normal;
+    padding-top: 10px ;
+    height: 40px;
+     border-bottom: 1px solid grey;
+     width: 90% ;
+     background-color: #929FBA;
+}
+
+.renderTextStyle {
+    min-height: 50px;
+    font-size: 14px;
+}
+.leftAlign{
+    margin-left: 10px;
+}
+
